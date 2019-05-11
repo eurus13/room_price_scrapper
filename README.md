@@ -4,6 +4,9 @@ Room price scrapper for CraigsList
 CD to
 ```/cl/spiders```
 
+# Spider settings:
+/cl/spiders/rent.py
+
 run from term with 
 ```scrapy crawl rent -o results.csv```
 
