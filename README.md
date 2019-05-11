@@ -12,4 +12,4 @@ run from term with
 
 
 ## Results soted in results.csv in 
-```/cl/spiders```
+```/cl/spiders/results.csv```
