@@ -11,5 +11,6 @@ run from term with
 ```start_urls = ['https://philadelphia.craigslist.org/search/apa']```
 
 
-## Results soted in results.csv in 
+## Results stored in results.csv in 
 ```/cl/spiders/results.csv```
+## Be sure to move/delete/append_name for results.csv each time you run or it will just join and repeat in the same CSV
